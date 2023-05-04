@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441311833322",
+    "project_id": "math-generator-project",
+    "storage_bucket": "math-generator-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441311833322:android:71e81d86d5b3046c60bb93",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441311833322-ba1m08gkdfjuqd2bvh8ko54kb5bhr6av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFFgZPRrozYub4lCkwvF3haEu2-CzQcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441311833322-ba1m08gkdfjuqd2bvh8ko54kb5bhr6av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
